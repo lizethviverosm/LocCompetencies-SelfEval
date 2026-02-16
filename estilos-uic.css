@@ -5,11 +5,11 @@
    =========================== */
 :root {
     /* Brand Colors */
-    --primary-color: #1f6944;
-    --secondary-color: #8CC63F;
-    --accent-color: #691F44;
+    --primary-color: #084a29;
+    --secondary-color: #71be0d;
+    --accent-color: #021d5c;
     --light-color: #f2f2f2;
-    --dark-color: #2c3e50;
+    --dark-color: #4e6f90;
     
     /* Typography */
     --font-main: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
